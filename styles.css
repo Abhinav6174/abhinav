@@ -84,7 +84,7 @@
         font-family: Handlee;
         font-size: 18px;
         text-align: justify;
-        margin-left: 2em
+        margin-left: 4em
     }
     
     .projects-heading {
@@ -175,6 +175,7 @@
         font-family: Handlee;
         font-weight: bold;
         font-size: 16px;
+        margin-top: 18px;
     }
     
     .button {
