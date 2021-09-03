@@ -53,11 +53,41 @@
     
     .about-paragraph {
         font-family: Handlee;
-        font-size: 20px;
+        font-size: 18px;
         text-align: justify;
     }
     
     .about-heading {
+        font-family: Handlee;
+        font-size: 32px;
+        font-weight: bold;
+    }
+    
+    .projects-container {
+        text-align: left;
+        background-color: #282828;
+        padding: 18px;
+        border-radius: 14px;
+        font-family: Handlee;
+        font-weight: bold;
+        margin-bottom: 26px;
+        vertical-align: middle;
+    }
+    
+    .projects-paragraph {
+        font-family: Handlee;
+        font-size: 18px;
+        text-align: justify;
+    }
+    
+    .projects-paragraph1 {
+        font-family: Handlee;
+        font-size: 18px;
+        text-align: justify;
+        margin-left: 4em
+    }
+    
+    .projects-heading {
         font-family: Handlee;
         font-size: 32px;
         font-weight: bold;
@@ -154,7 +184,7 @@
         width: 140px;
         padding-top: 4px;
         padding-bottom: 8px;
-        font-size: 14px;
+        font-size: 16px;
         text-align: center;
         font-family: Handlee;
         font-weight: bold;
