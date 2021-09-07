@@ -178,6 +178,31 @@
         margin-top: 18px;
     }
     
+    .contact-icons {
+        text-align: center;
+        padding-bottom: 14px;
+    }
+    
+    .fb {
+        margin: 8px;
+        font-size: 20px;
+    }
+    
+    .git {
+        margin: 8px;
+        font-size: 20px;
+    }
+    
+    .ins {
+        margin: 8px;
+        font-size: 20px;
+    }
+    
+    .lin {
+        margin: 8px;
+        font-size: 20px;
+    }
+    
     .button {
         color: black;
         background-color: white;
