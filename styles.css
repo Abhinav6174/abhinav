@@ -300,5 +300,7 @@ body {
     background-color: #202020;
     color: #ffffff;
     letter-spacing: 0.1em;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-image: url('https://1.bp.blogspot.com/-TEafUuqpP2g/YTIOvr_T2lI/AAAAAAAA7Fw/rJRYqb9iqZc5WbBtIdIF_OrGYBr5gvmAgCLcBGAsYHQ/s16000/bg.png');
 }
