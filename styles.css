@@ -296,6 +296,10 @@
     transform: scale(1.02);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #202020;
     color: #ffffff;
